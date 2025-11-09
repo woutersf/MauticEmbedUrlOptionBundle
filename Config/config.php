@@ -12,11 +12,8 @@ return [
 
     'services' => [
         'events' => [
-            'mautic.embed_url_option.subscriber' => [
-                'class' => MauticPlugin\MauticEmbedUrlOptionBundle\EventListener\FormViewSubscriber::class,
-                'arguments' => [
-                    'router',
-                ],
+            'mautic.embed_url_option.asset.subscriber' => [
+                'class' => MauticPlugin\MauticEmbedUrlOptionBundle\EventListener\AssetSubscriber::class,
             ],
         ],
     ],
