@@ -2,6 +2,10 @@
 
 A simple yet powerful Mautic plugin that enhances form management by adding a **Direct URL** option to form detail pages.
 
+## Screenshot
+
+![Direct URL Button](Assets/direct_url.png)
+
 ## Overview
 
 This plugin adds a convenient "Direct URL" button alongside the existing "Embedded" button on form detail pages. When clicked, it displays a modal with the direct URL to your form, making it easy to share and use forms without embedding them.
