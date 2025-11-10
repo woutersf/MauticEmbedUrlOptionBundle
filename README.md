@@ -2,6 +2,8 @@
 
 A simple yet powerful Mautic plugin that enhances form management by adding a **Direct URL** option to form detail pages.
 
+Will be deprecated when this one hits the road: https://github.com/mautic/mautic/pull/15098#pullrequestreview-2978869440
+
 ## Screenshot
 
 ![Direct URL Button](Assets/direct_url.png)
